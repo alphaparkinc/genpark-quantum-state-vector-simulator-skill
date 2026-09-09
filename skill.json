@@ -1,0 +1,15 @@
+{
+  "name": "genpark-quantum-state-vector-simulator-skill",
+  "version": "1.0.0",
+  "description": "Qubit statevector simulation engine executing unitary single-qubit rotations, Hadamard transformations, and CNOT entanglement operations.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "quantum-computing",
+    "statevector",
+    "qubit-simulator",
+    "quantum-gates"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
